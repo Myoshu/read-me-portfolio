@@ -10,7 +10,7 @@ Backend code example:
 https://gist.github.com/Myoshu/eb7517b97fbc816a857c32ab3ff3dda5
 
 Some code examples from project:
-[Link to code examples](https://www.dropbox.com/s/ta4ppz7t03yyzia/1%20-%20The%20School%20of%20Electrical%20and%20Computer%20Engineering%20of%20Applied%20Studies.zip?dl=0)
+[Link to code examples](https://www.dropbox.com/sh/ah6vcud6sv9jwyw/AAALHFql5UH4pO3aeddKkHnAa?dl=1)
 
 
 ### Nova Iskra Project
@@ -40,3 +40,8 @@ https://gist.github.com/Myoshu/ae952d5e74fb5be3bc19a98b89c6d93a
 
 Worked mostly as a frontend developer, converting design to a website. Some the projects where I can provide the code or a design are:
 https://insights.network/, http://en.kyligence.io/, https://www.contentanalyticsinc.com/
+
+A few reviews:
+
+![Dino Drops Review](https://i.imgur.com/19a25FK.png)
+![HTML content migration Review](https://i.imgur.com/v0d8XJ4.png)
