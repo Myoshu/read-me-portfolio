@@ -38,10 +38,12 @@ https://gist.github.com/Myoshu/ae952d5e74fb5be3bc19a98b89c6d93a
 
 *Jan 2014 - Jan 2018*
 
-Worked mostly as a frontend developer, converting design to a website. Some the projects where I can provide the code or a design are:
+Worked as a frontend developer, with 38 projects on this platform, mostly converting design to a website. Some of the projects where I can provide the code or a design are:
 https://insights.network/, http://en.kyligence.io/, https://www.contentanalyticsinc.com/
 
 A few reviews:
 
-![Dino Drops Review](https://i.imgur.com/19a25FK.png)
-![HTML content migration Review](https://i.imgur.com/v0d8XJ4.png)
+![Reviews](https://i.imgur.com/huxs0g0.png)
+
+### Link to CV:
+https://github.com/Myoshu/read-me-portfolio/blob/master/Marta_Jorgacevic_-_CV.pdf
