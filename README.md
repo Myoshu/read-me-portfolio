@@ -43,7 +43,7 @@ https://insights.network/, http://en.kyligence.io/, https://www.contentanalytics
 
 A few reviews:
 
-![Reviews](https://i.imgur.com/huxs0g0.png)
+![Reviews](https://i.imgur.com/qTTnBQ1.png)
 
 ### Link to CV:
 https://github.com/Myoshu/read-me-portfolio/blob/master/Marta_Jorgacevic_-_CV.pdf
